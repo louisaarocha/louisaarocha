@@ -4,7 +4,7 @@
 - [Azure Sentinel SIEM](https://github.com/louisaarocha/Azure-Sentinel-SIEM)
 - [Active Directory](https://github.com/louisaarocha/AD-Homelab-VirtualBox)
 - [Simple File Integrity Monitor](https://github.com/louisaarocha/FIM)
-- [Vulnerability Management using Nessus ](https://github.com/louisaarocha/Vulnerability-Management-Nessus)
+- [Vulnerability Management using Nessus ](https://github.com/louisaarocha/Nessus-Vulnerability-Management)
 - [Vulnerability Management using OpenVAS ](https://github.com/louisaarocha/OpenVAS-Vulnerability-Management)
 
 ## 🌐 Socials:
